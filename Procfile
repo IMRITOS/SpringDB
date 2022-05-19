@@ -1,1 +1,1 @@
-web: java -jar target/spring-boot-0.0.1-SNAPSHOT.jar
+web: java -jar target/testspring-0.0.1-SNAPSHOT.jar
