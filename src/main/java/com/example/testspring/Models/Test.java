@@ -1,4 +1,4 @@
-package com.example.testspring;
+package com.example.testspring.Models;
 
 public class Test {
     private String name;
