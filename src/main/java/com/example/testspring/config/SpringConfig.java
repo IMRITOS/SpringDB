@@ -1,4 +1,4 @@
-package com.example.testspring;
+package com.example.testspring.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

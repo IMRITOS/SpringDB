@@ -1,15 +1,15 @@
 package com.example.testspring.Models;
 
-public class User {
+public class USER {
     private int id;
     private String login;
     private String password;
     private String name;
 
-    public User() {
+    public USER() {
     }
 
-    public User(int id, String login, String password, String name) {
+    public USER(int id, String login, String password, String name) {
         this.id = id;
         this.login = login;
         this.password = password;
