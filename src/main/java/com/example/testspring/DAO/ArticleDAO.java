@@ -1,4 +1,4 @@
-package com.example.testspring.DB;
+package com.example.testspring.DAO;
 
 import com.example.testspring.Models.Article;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
 package com.example.testspring.Controllers;
 
-import com.example.testspring.DB.UserDAO;
+import com.example.testspring.DAO.UserDAO;
 import com.example.testspring.Models.USER;
 import com.example.testspring.Validators.user.ValidateUser;
 import com.example.testspring.helpers.jwt.JWT;

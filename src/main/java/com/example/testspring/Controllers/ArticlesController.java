@@ -1,6 +1,6 @@
 package com.example.testspring.Controllers;
 
-import com.example.testspring.DB.ArticleDAO;
+import com.example.testspring.DAO.ArticleDAO;
 import com.example.testspring.Models.Article;
 import com.example.testspring.helpers.jwt.JWT;
 import org.springframework.beans.factory.annotation.Autowired;
