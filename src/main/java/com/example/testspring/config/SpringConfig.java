@@ -18,9 +18,9 @@ public class SpringConfig {
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
 
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
-        dataSource.setUrl("jdbc:mysql://sql11.freemysqlhosting.net:3306/sql11495197");
-        dataSource.setUsername("sql11495197");
-        dataSource.setPassword("HUzmxsLB2U");
+        dataSource.setUrl("jdbc:mysql://sql11.freesqldatabase.com:3306/sql11506375");
+        dataSource.setUsername("sql11506375");
+        dataSource.setPassword("YgAhb4lnKU");
 
         return dataSource;
     }
